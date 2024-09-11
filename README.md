@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)
 
 <h1 align="center">Hi 👋, I'm Nagashree P</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
